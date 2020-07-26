@@ -1,0 +1,11 @@
+# ignore
+build/*
+dist/*
+yucctools.egg-info/*
+log/*
+__pycache__
+*.zip
+*.pyc
+*.lprof
+.ipynb_checkpoints
+tmp/*
