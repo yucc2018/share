@@ -12,3 +12,4 @@ tmp/*
 transformers_data_and_model
 wandb
 runs
+transformers/transformers/*
