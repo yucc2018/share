@@ -9,3 +9,6 @@ __pycache__
 *.lprof
 .ipynb_checkpoints
 tmp/*
+transformers_data_and_model
+wandb
+runs
